@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class KursSpringApplication {
-    // this method runs Spring container
+    // this method runs Spring container...   :O
     public static void main(String[] args) {
         SpringApplication.run(KursSpringApplication.class, args);
     }
